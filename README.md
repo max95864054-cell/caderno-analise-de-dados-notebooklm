@@ -1,4 +1,4 @@
-# Caderno Temático com NotebookLM: Introdução à Análise de Dados
+#NotebookLM: Introdução à Análise de Dados
 
 ## Sobre o projeto
 
